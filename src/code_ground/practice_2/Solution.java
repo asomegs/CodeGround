@@ -54,6 +54,7 @@ class Solution {
 			// 이 부분에서 정답을 출력하십시오.
 			System.out.println("Case #" + test_case);
 			System.out.println(numberOfCandidate);
+			sc.close();
 		}
 	}
 }
