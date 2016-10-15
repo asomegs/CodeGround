@@ -16,6 +16,8 @@ class Solution {
 		Scanner sc = new Scanner(new FileInputStream("src/code_ground/practice_6/sample_input.txt"));
         
 		//Scanner sc = new Scanner(System.in);
+		
+		System.out.println("\\");
 
 		int TC;
 		int test_case;
